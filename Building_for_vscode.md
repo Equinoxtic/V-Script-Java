@@ -10,3 +10,8 @@
 - Wait for the installation to finish
 
 And you're done!
+
+Just open up Command Prompt or Powershell in the directory of V-Script
+
+`To Compile: ` "javac Main.java"
+`To Run (After Compiling): ` "java Main.java"
