@@ -14,4 +14,4 @@ JavaScript: https://github.com/Equinoxtic/V-Script-JS
 
 ## Additional Notes
 
-Please read `Building.md` for detailed instructions on compiling and running the program.
+Please read `Building_for_(IDE).md` for detailed instructions on compiling and running the program.
